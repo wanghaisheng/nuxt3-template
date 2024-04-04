@@ -1,4 +1,4 @@
-# NUVA布料在线试穿-移动端
+# nuxt3 + vue3 + pinia + typescript + vueuse + nuxt-ui + nuxt-i18n + eslint + prettier的项目模板
 
 ## 启动项目
 
