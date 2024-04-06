@@ -7,13 +7,11 @@ export default defineNuxtConfig({
         '@pinia/nuxt',
         '@vueuse/nuxt', 
         '@nuxt/ui',
-        [
-            '@nuxtjs/i18n',
-            {
-              // Module Options
-            }
-        ]
+        '@nuxtjs/i18n',
     ],
+    i18n: {
+        vueI18n: './i18n.config.ts' // if you are using custom path, default
+    },
     vite: {
         css: {
             preprocessorOptions: {
