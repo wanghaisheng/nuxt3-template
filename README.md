@@ -1,3 +1,5 @@
+2024-11-11
+
 # nuxt3 + vue3 + pinia + typescript + vueuse + nuxt-ui + nuxt-i18n + eslint + prettier的项目模板
 
 ## 启动项目
